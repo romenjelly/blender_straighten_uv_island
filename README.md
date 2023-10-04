@@ -22,7 +22,7 @@ For this add-on to correctly work, the following criteria must be met:
 
 ## Installation
 
-- Download a release (a `.zip` file, no need to extract it)
+- Navigate to the latest [release](https://github.com/romenjelly/blender_straighten_uv_island/releases/latest), and download the `straighten_uv_island.zip` file. No need to extract it.
 - In Blender, click on `Edit` -> `Preferences`
 - In the preferences window, navigate to the `Add-ons` tab
 - Click on "Install" (top right)
